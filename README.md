@@ -69,7 +69,7 @@ This repository collects & organizes essential security tools used in:
 
 # 🤝 Contribute  
 Want to add a new useful tool?  
-Pull Request জমা দিন — contributions welcome!  
+Pull Request ✍️ — contributions welcome!  
 
 ---
 
